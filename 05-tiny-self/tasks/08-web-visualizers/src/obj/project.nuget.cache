@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8iGWpiV4S577M7+68eaOknHC7P490mlI7nXbMErqYmL2mpKGr2MXAKWAJA36PvmdP5v2VYKCh+AjrrYl+g+9w==",
+  "success": true,
+  "projectFilePath": "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/tinyself.fsproj",
+  "expectedPackageFiles": [
+    "/home/ddcveng/.nuget/packages/fable.browser.blob/1.1.0/fable.browser.blob.1.1.0.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/fable.browser.dom/2.2.0/fable.browser.dom.2.2.0.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/fable.browser.event/1.2.1/fable.browser.event.1.2.1.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/fable.browser.webstorage/1.0.0/fable.browser.webstorage.1.0.0.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/fable.core/3.2.3/fable.core.3.2.3.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/fsharp.core/8.0.101/fsharp.core.8.0.101.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ddcveng/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

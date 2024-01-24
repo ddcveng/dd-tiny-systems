@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/tinyself.fsproj": {}
+  },
+  "projects": {
+    "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/tinyself.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/tinyself.fsproj",
+        "projectName": "tinyself",
+        "projectPath": "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/tinyself.fsproj",
+        "packagesPath": "/home/ddcveng/.nuget/packages/",
+        "outputPath": "/home/ddcveng/projects/NPRG077/tiny-systems/05-tiny-self/tasks/08-web-visualizers/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ddcveng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/sdk/8.0.101/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.101, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Dom": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Core": {
+              "target": "Package",
+              "version": "[3.2.3, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
